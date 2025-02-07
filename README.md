@@ -1,0 +1,1 @@
+Campus Threads is a social media platform similar to Twitter, designed for students, teachers, and anyone related to the university to share thoughts, engage in discussions, and connect with others. Users can create posts, follow/unfollow other users, like and comment on posts, and engage in real-time conversations.
